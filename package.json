@@ -12,6 +12,7 @@
     "gulp": "^4.0.2",
     "gulp-sourcemaps": "^3.0.0",
     "gulp-watch": "^5.0.1",
+    "heroku": "^7.59.4",
     "swiper": "^8.0.7"
   },
   "devDependencies": {
